@@ -4,6 +4,10 @@ My work focuses on international partnerships and open source ecosystems, with a
 
 Here I share personal technical experiments, prototypes and occasional contributions. Some explore practical questions arising while building Radixia.
 
+## Open source governance
+
+- Eclipse Foundation: coordination of the [Eclipse Xpanse](https://github.com/eclipse-xpanse/xpanse) working group, and the creation of the Cloud Interest Group. The pinned `xpanse` fork is linked to this role, not to code contributions.
+
 ## Selected personal experiments
 
 - [MCP Census](https://github.com/radixia/mcp-census): measuring how MCP services can be discovered, with published evidence and explicit methodological limitations.
